@@ -1,0 +1,8 @@
+cb0036514b22a9e50d7062ce63ee2d6c *DESCRIPTION
+a5edee0e051b34d7293fca96e4db25e0 *NAMESPACE
+ce6abe7beb1c03f96ec9aa1c6c9239c5 *R/RcppExports.R
+c4b13ede05adc90c86259de84136bacd *README.md
+e366cbdac793a1fb36d16d298a69e777 *man/recom-doc.Rd
+f33e4e686e5853133cc0f5ad6d47f82f *man/recom-package.Rd
+f4369441cd523ef2aaabc1981aea85e8 *src/RcppExports.cpp
+c9ebc806e2b5fcec688ea104aaa265fb *src/recom_source.cpp
